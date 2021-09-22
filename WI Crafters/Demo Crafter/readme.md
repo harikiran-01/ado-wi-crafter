@@ -1,4 +1,3 @@
-[[_TOC_]]
 # Demo WI Crafter
 This tool is an extension of [ado-wi-utils](../../ado_wi_utils/) package to demonstrate creation of WIs and acts as a template for Work Item Creation using the package.
 
