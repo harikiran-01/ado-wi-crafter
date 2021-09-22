@@ -1,0 +1,716 @@
+WI Crafter started at 2021-09-22 16:37:04.008526
+WI Crafter started at 2021-09-22 17:02:45.090931
+WI Crafter started at 2021-09-22 17:03:21.470000
+Attachment file tools/ado-wi-craft-utils/WI Crafters/Demo Crafter/data source/attachments/sample_attachment1.txt doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file tools/ado-wi-craft-utils/WI Crafters/Demo Crafter/data source/attachments/sample_attachment1.txt doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:06:27.104130
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/081c3053-3f98-45bc-a718-2843dae73e29?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/081c3053-3f98-45bc-a718-2843dae73e29?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://domoreexp.visualstudio.com/MSTeams/_workitems/edit/1668094'}}]
+Created Task failed with response: {'$id': '1', 'innerException': None, 'message': 'TF401232: Work item 1668094 does not exist, or you do not have permissions to read it.', 'typeName': 'Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemLinkEndUnauthorizedAccessException, Microsoft.TeamFoundation.WorkItemTracking.Server', 'typeKey': 'WorkItemLinkEndUnauthorizedAccessException', 'errorCode': 0, 'eventId': 3200}
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/db66856c-3307-41f7-b9e3-68bf3d35f61f?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/db66856c-3307-41f7-b9e3-68bf3d35f61f?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://domoreexp.visualstudio.com/MSTeams/_workitems/edit/1668094'}}]
+Created Task failed with response: {'$id': '1', 'innerException': None, 'message': 'TF401232: Work item 1668094 does not exist, or you do not have permissions to read it.', 'typeName': 'Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemLinkEndUnauthorizedAccessException, Microsoft.TeamFoundation.WorkItemTracking.Server', 'typeKey': 'WorkItemLinkEndUnauthorizedAccessException', 'errorCode': 0, 'eventId': 3200}
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:07:35.128939
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/0489980b-53ff-4530-87d5-d2b2b4f3a2ca?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/0489980b-53ff-4530-87d5-d2b2b4f3a2ca?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://domoreexp.visualstudio.com/MSTeams/_workitems/edit/1668094'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'TF401232: Work item 1668094 does not exist, or you do not have permissions to read it.', 'typeName': 'Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemLinkEndUnauthorizedAccessException, Microsoft.TeamFoundation.WorkItemTracking.Server', 'typeKey': 'WorkItemLinkEndUnauthorizedAccessException', 'errorCode': 0, 'eventId': 3200}
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/ccd31829-2425-4fdd-93fb-0359c9352ec0?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/ccd31829-2425-4fdd-93fb-0359c9352ec0?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://domoreexp.visualstudio.com/MSTeams/_workitems/edit/1668094'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'TF401232: Work item 1668094 does not exist, or you do not have permissions to read it.', 'typeName': 'Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemLinkEndUnauthorizedAccessException, Microsoft.TeamFoundation.WorkItemTracking.Server', 'typeKey': 'WorkItemLinkEndUnauthorizedAccessException', 'errorCode': 0, 'eventId': 3200}
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:10:11.759343
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/9c4ac550-f16c-4cb2-add1-fc8410a9bebb?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/9c4ac550-f16c-4cb2-add1-fc8410a9bebb?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://dev.azure.com/InsightGround/Project%20Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/79a18436-de8e-4e50-a65a-da183a47bba8?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/79a18436-de8e-4e50-a65a-da183a47bba8?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://dev.azure.com/InsightGround/Project%20Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:11:45.563200
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/87d937c9-068c-4ed6-bd8e-97fb280b4f8b?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/87d937c9-068c-4ed6-bd8e-97fb280b4f8b?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://dev.azure.com/InsightGround/Project '
+                   'Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/a172277f-2301-4078-a04d-c7566570e5da?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/a172277f-2301-4078-a04d-c7566570e5da?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://dev.azure.com/InsightGround/Project '
+                   'Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:12:25.901303
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5d27f8db-b235-4e86-b2aa-5243417b6325?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5d27f8db-b235-4e86-b2aa-5243417b6325?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/a4945ba0-5c1a-40cd-9f5c-b17a7e1a83d6?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/a4945ba0-5c1a-40cd-9f5c-b17a7e1a83d6?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2/'}}]
+Created Bug failed with response: {'$id': '1', 'innerException': None, 'message': 'Linking to a work item requires the full url.', 'typeName': 'Microsoft.VisualStudio.Services.Common.VssPropertyValidationException, Microsoft.VisualStudio.Services.Common', 'typeKey': 'VssPropertyValidationException', 'errorCode': 0, 'eventId': 3000}
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:12:54.390869
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5d5ab24f-ebf2-4238-aafb-f9c2f6e88c0f?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5d5ab24f-ebf2-4238-aafb-f9c2f6e88c0f?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 3
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5ba2564a-6d59-4d7c-918b-246b98492d0f?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Link to open: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/5ba2564a-6d59-4d7c-918b-246b98492d0f?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 4
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:16:18.903217
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/02be25d5-3b8d-4438-82d4-555936fda6b0?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/02be25d5-3b8d-4438-82d4-555936fda6b0?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 5
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/26dc5a90-16ec-4fae-8eeb-b05e034a4fec?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/26dc5a90-16ec-4fae-8eeb-b05e034a4fec?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 6
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:17:19.054012
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/86592ca0-1d37-4a79-97b7-cdffccdcac5e?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/86592ca0-1d37-4a79-97b7-cdffccdcac5e?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 7
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/d28be0b0-4437-471c-84d3-146c9c98e18b?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/d28be0b0-4437-471c-84d3-146c9c98e18b?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 8
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+Attachment file None doesnt exist
+Aborting WI creation as mandatory attachment file is missing
+
+
+WI Crafter started at 2021-09-22 17:17:49.993199
+WI Crafter started at 2021-09-22 17:20:03.815715
+WI Crafter started at 2021-09-22 17:20:45.937412
+WI Crafter started at 2021-09-22 17:21:34.669731
+WI Crafter started at 2021-09-22 17:25:07.605072
+WI Crafter started at 2021-09-22 17:25:22.826404
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/7942e89f-bd18-4a4a-ad62-0fab6b5fd93e?fileName=sample_attachment1.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.bing.com">BING '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'EDGE</div><div>Term to search : Microsoft '
+                                  'Teams</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open EDGE and search keyword: Microsoft Teams in '
+                 'BING SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/7942e89f-bd18-4a4a-ad62-0fab6b5fd93e?fileName=sample_attachment1.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 9
+
+
+Url of Uploaded Attachment : https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/9a12f4df-7135-4fbd-a0fd-9bc77f8d5ae2?fileName=sample_attachment2.txt
+WI map:
+{'Microsoft.VSTS.TCM.ReproSteps': '<div>Open <a '
+                                  'href="https://www.google.com">GOOGLE '
+                                  'SEARCH</a></div><div>Browser to open in: '
+                                  'CHROME</div><div>Term to search : Skype For '
+                                  'Business</div>',
+ 'System.Tags': 'testtag',
+ 'System.Title': 'Test Task : Open CHROME and search keyword: Skype For '
+                 'Business in GOOGLE SEARCH'}
+WI relations:
+[{'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Attachment'},
+            'rel': 'AttachedFile',
+            'url': 'https://dev.azure.com/InsightGround/9b06396d-0e79-46f4-afaa-90d5b9b37ef2/_apis/wit/attachments/9a12f4df-7135-4fbd-a0fd-9bc77f8d5ae2?fileName=sample_attachment2.txt'}},
+ {'op': 'add',
+  'path': '/relations/-',
+  'value': {'attributes': {'comment': 'Adding Parent WI'},
+            'rel': 'System.LinkTypes.Hierarchy-Reverse',
+            'url': 'https://insightground.visualstudio.com/Project%20Test/_workitems/edit/2'}}]
+Created Bug : 10
+
+
+WI Crafter started at 2021-09-22 17:25:39.185199

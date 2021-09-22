@@ -1,0 +1,60 @@
+{
+    "ado api config": {
+        "org": "<ORG>",
+        "proj": "<PROJECT>",
+        "api version": "api-version=6.0", 
+        "user id": "<EMAIL ID>",
+        "pat": "<PAT>",
+        "wi headers": {
+            "Content-Type": "application/json-patch+json"
+        },
+        "attch default name": ""
+    },
+    "data source config": {
+        "excel file path": "data source/sampledata.xlsx"
+    },
+    "wi craft config": {
+        "wi type": "Bug",
+        "wi skeleton": {
+            "Title": {
+                "Test Task : Open %s and search %s": 
+                [
+                    0,
+                    {
+                    "keyword: %s in %s": 
+                    [
+                        2, 
+                        1
+                    ]
+                    }
+                ]
+            },
+            "Repro Steps": {
+                    "TEMPLATE_WI_VALUE": 
+                    [
+                        {
+                            "<a href=\"%s\">%s</a>": [3,1]
+                        }, 
+                        0, 
+                        {
+                            "Term to search : %s": [2]
+                        }
+                    ]
+            },
+            "Tags": "TEMPLATE_WI_VALUE"
+        },
+        "wi rels skeleton": [
+            {
+                "wi_rel_type": "Attached File",
+                "wi_rel_url": {"%s": [5]},
+                "wi_rel_comment": "Adding Attachment"
+            },
+            {
+                "wi_rel_type": "Parent",
+                "wi_rel_url": "<WI URL>",
+                "wi_rel_comment": "Adding Parent WI"
+            }
+        ],
+        "template wi id": "1"
+    }
+}
