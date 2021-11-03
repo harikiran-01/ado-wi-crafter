@@ -44,9 +44,9 @@ The fields in the config file are defined as follows:
       Based on `[formatting values]` item datatype, `exp` gets reduced to the following expressions:  
       `String` -> String   
       `Integer` -> Value of cell in excel sheet corresponding to the column number indexed from 0 for each row in excel data  
-      `exp` -> Recursively reduces `formattable_str` to a formatted string by replacing occurences of %s in the order of values in `[formatting values]`  
+      `exp` -> Recursively reduces `exp` to a formatted `formattable_str` by replacing occurences of %s in the order of values in `[formatting values]`  
     - `direct_str` - The constant value of the WI field  
-  - `wi rels skeleton` - The signature of this variable is `[{field: exp}]`. Its a list of maps for each relations. Each map must contain `wi_rel_type` and `wi_rel_url` as mandatory fields with `wi_rel_comment` as optional field
+  - `wi rels skeleton` - The signature of this variable is `[{field: exp}]`. Its a list of maps for each relation. Each map must contain `wi_rel_type` and `wi_rel_url` as mandatory fields with `wi_rel_comment` as optional field
 
     - `wi_rel_type` - Attachments and WI links in ADO are termed as Relations. The relation type expects the display name of the relation ex: Parent, Child etc. Crafter implicitly calls `get_wi_ref_rels(wi_rels)` in [ado_wi_api_utils.py](../../ado_wi_utils/ado_wi_api_utils.py) that accepts wi_rels with display-named relation types and returns wi_map with reference-named relation types.
 
